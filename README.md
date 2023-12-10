@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BilalZahid0&label=Profile%20views&color=0e75b6&style=flat" alt="BilalZahid0" /> </p>
 
 
-- 🌱 I’m currently learning **I’m currently learning ML & AI Models with having prior knowledge of Data analysis**
+- 🌱 I’m currently learning **ML & AI Models with having prior knowledge of Data analysis**
 - 📫 How to reach me **bilalzahid0315@gmail.com**
 - 👨‍💻 All of my projects are available at **[bilalzahid.me](https://bilalzahid.me/)**
 - ⚡ Fun fact **Chai taste better than coffee**
