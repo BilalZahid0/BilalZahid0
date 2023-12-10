@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML & AI Models with having prior knowledge of Data analysis**
 
-- 👨‍💻 All of my projects are available at [bilalzahid.me](bilalzahid.me)
+- 👨‍💻 All of my projects are available at ([bilalzahid.me](https://bilalzahid.me/))
 
 - 📫 How to reach me **bilalzahid0315@gmail.com**
 
